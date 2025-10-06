@@ -43,5 +43,3 @@ EcoRide est un prototype front-end d'un service de covoiturage écologique réal
 - Remplacer les tableaux codés en dur par des données récupérées via une API REST ou un fichier JSON.
 - Ajouter une validation côté client, des audits d'accessibilité et des tests automatisés à mesure que le prototype grandit.
 - Introduire un bundler, du linting ou un système de composants si le front-end devient plus complexe.
-
-Aucune licence n'est fournie pour ce projet ; ajoutez-en une si vous comptez le diffuser ou collaborer publiquement.
